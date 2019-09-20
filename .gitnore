@@ -7,5 +7,5 @@
 **/*.exe
 
 ##ignore all .out files
-**/*.out
+##**/*.out
 
