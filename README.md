@@ -10,7 +10,7 @@ Current Status
 Chapter name | Examples | Exercises
 -|-|-| 
 Chapter 3 | 4/6 | 11/12
-Chapter 4 | 6/6 | 5/10
+Chapter 4 | 6/6 | 7/10
 Chapter 5 | 11/12 |  16/16
 Chapter 6 | 16/22 |  14/14
 Chapter 7 | 15/15 | 18/18
